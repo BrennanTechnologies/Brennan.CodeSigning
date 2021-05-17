@@ -1,15 +1,15 @@
-# Abacus-ScriptSigning #
+# Brennan.CodeSigning #
 
 ### Overview ###
-The Abacus-ScriptSigning module provides tools to secure and sign PowerShell scripts.
+The Brennan.CodeSigning module provides tools to secure and sign PowerShell scripts.
 
 ### Requirements: ###
-Requires the Abacus-ScriptSigning module.
+Requires the Brennan.CodeSigning module.
 
 ```powershell
-Import-Abacus-ScriptSigning
+Import Brennan.CodeSigning
 or
-RequiredModules = @('Abacus-ScriptSigning')
+RequiredModules = @('Brennan.CodeSigning')
 ```
 
 ### Commands ###
@@ -27,12 +27,5 @@ Author: Chris Brennan
 
 Date: 4-4-2020
 
-### Support ###
-**Known Bugs**
-
-None
-
-**Report Bugs**
-
-bugs.devops@abacusgroupllc.com
+Contact: cbrennan.brennantechnologies.com
 
