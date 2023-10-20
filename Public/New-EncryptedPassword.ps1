@@ -1,5 +1,14 @@
 ### New-EncryptedPassword.ps1
 
+<# 
+Author: Chris Brennan
+Client: Abacus
+Date: 2019?
+Purpose: Generated a AES-256 encrypted password key
+#>
+
+
+
 <#
 .SYNOPSIS
 Create an encrypted a password for use in PowerShell scripts.
