@@ -1,13 +1,11 @@
 ### New-EncryptedPassword.ps1
 
 <# 
-Author: Chris Brennan
-Client: Abacus
-Date: 2019?
-Purpose: Generated a AES-256 encrypted password key
+    Author: Chris Brennan
+    Client: Abacus
+    Date: 2019?
+    Purpose: Generated a AES-256 encrypted password key
 #>
-
-
 
 <#
 .SYNOPSIS
