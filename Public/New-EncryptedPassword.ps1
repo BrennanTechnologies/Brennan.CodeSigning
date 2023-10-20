@@ -13,9 +13,6 @@ Purpose: Generated a AES-256 encrypted password key
 .SYNOPSIS
 Create an encrypted a password for use in PowerShell scripts.
 
-.DESCRIPTION
-Create an encrypted a password for use in PowerShell scripts.
-
 .PARAMETER KeyFolder
 The output folder for the new key pair.
 
