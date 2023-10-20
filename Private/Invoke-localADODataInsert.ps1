@@ -3,7 +3,7 @@
     Author: Chris Brennan
     Client: Abacus
     Date: 2019?
-    Purpose: Simple ADO connector to SQL Server
+    Purpose: Simple ADO Connector to SQL Server
 #>
 
 function Invoke-localADODataInsert {
