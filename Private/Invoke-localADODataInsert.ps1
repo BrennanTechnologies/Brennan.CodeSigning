@@ -47,7 +47,7 @@ function Invoke-localADODataInsert {
     Begin {
         ### Create Database Connection String
         ###----------------------------------
-        $ConnectionString = "Data Source=$ServerInstance;Initial Catalog=$Database;Integrated Security=true;"
+        $ConnectionString = "Data Source=$ServerInstance;Initial Catalog=$Database;Integrated Security=true;"  ### Use No Speces in Conn String.
         ### Open DB Connection
         ###----------------------------------
         $Connection = New-Object System.Data.SqlClient.SqlConnection
