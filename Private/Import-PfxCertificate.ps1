@@ -1,3 +1,11 @@
+<# 
+    Author: Chris Brennan
+    Client: Abacus
+    Date: 2019?
+    Purpose: Import Certificate from Vault.
+#>
+
+
 <#
 .SYNOPSIS
 Imports the specified PFX File (Certificate & Key).
