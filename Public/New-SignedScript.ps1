@@ -7,9 +7,6 @@
 
 function New-SignedScript {
 <#
-.SYNOPSIS
-Code Sign the specified script.
-
 .DESCRIPTION
 Code Sign the specified script.
 
