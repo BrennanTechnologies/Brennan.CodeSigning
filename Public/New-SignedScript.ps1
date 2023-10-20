@@ -1,3 +1,10 @@
+<# 
+    Author: Chris Brennan
+    Client: Abacus
+    Date: 2019?
+    Purpose: Code Sign a scropy with a Cert. (Self-Signed Cert or Certificate Authority)
+#>
+
 function New-SignedScript {
 <#
 .SYNOPSIS
